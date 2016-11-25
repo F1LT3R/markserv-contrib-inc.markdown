@@ -9,6 +9,9 @@
   },
   "author": "f1lt3r",
   "license": "LGPL-3.0",
+  "dependancies": {
+    "marked": "git://github.com/f1lt3r/marked#master"
+  },
   "devDependencies": {
     "xo": "^0.17.0"
   },
