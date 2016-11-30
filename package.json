@@ -1,6 +1,6 @@
 {
   "name": "markserv-contrib-inc.markdown",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Include one Markdown file inside another",
   "repository": "git@github.com:f1lt3r/markserv-contrib-inc.markdown",
   "main": "lib/inc.markdown.js",
