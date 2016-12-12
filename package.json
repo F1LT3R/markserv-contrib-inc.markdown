@@ -1,6 +1,6 @@
 {
   "name": "markserv-contrib-inc.markdown",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Include one Markdown file inside another",
   "repository": "git@github.com:f1lt3r/markserv-contrib-inc.markdown",
   "main": "lib/inc.markdown.js",
@@ -17,7 +17,6 @@
   },
   "xo": {
     "esnext": true,
-    "space": 2,
     "globals": [
       "it",
       "describe",
@@ -41,5 +40,8 @@
         }
       }
     ]
+  },
+  "dependencies": {
+    "bluebird": "^3.4.6"
   }
 }
