@@ -1,6 +1,6 @@
 {
   "name": "markserv-contrib-inc.markdown",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Include one Markdown file inside another",
   "repository": "git@github.com:f1lt3r/markserv-contrib-inc.markdown",
   "main": "lib/inc.markdown.js",
@@ -9,7 +9,8 @@
   },
   "author": "f1lt3r",
   "license": "LGPL-3.0",
-  "dependancies": {
+  "dependencies": {
+    "bluebird": "^3.4.6",
     "marked": "git://github.com/f1lt3r/marked#master"
   },
   "devDependencies": {
@@ -40,8 +41,5 @@
         }
       }
     ]
-  },
-  "dependencies": {
-    "bluebird": "^3.4.6"
   }
 }
