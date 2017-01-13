@@ -1,11 +1,11 @@
 {
   "name": "markserv-contrib-inc.markdown",
-  "version": "1.0.3",
+  "version": "1.0.14",
   "description": "Include one Markdown file inside another",
   "repository": "git@github.com:f1lt3r/markserv-contrib-inc.markdown",
   "main": "lib/inc.markdown.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "true"
   },
   "author": "f1lt3r",
   "license": "LGPL-3.0",
